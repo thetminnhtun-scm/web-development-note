@@ -22,7 +22,7 @@ alias dpa='docker-compose exec php php artisan
 ```
 - Run below command to apply alias command
 ```sh
-souce ~/.bashrc
+source ~/.bashrc
 ```
 - Then you can run alias command (view file lists in current directory) in the git bash. You will see file lists.
 
